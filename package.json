@@ -1,0 +1,25 @@
+{
+  "name": "kw-calc-box-banghy",
+  "version": "0.0.1",
+  "description": "opensource_assignment",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "bin": {
+    "calbox": "./main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PangDae20/kw-calc-box-banghy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PangDae20/kw-calc-box-banghy/issues"
+  },
+  "homepage": "https://github.com/PangDae20/kw-calc-box-banghy#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
